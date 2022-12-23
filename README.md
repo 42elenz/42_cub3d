@@ -5,7 +5,7 @@ It will enable you to explore ray-casting.<br>
 Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.<br>
 
 This project was done as a group project with [Lars Pfleider](https://github.com/xhazm) <br>
-![result](kjlkjlkjlk)
+![result](https://github.com/42elenz/cub3d/blob/master/resources/screen.png)
 ## Contents
 - [Short description](https://github.com/42elenz/cub3d#short-description-of-the-project)
 - [Our cub3D](https://github.com/42elenz/cub3d#our-cub3d)
@@ -13,7 +13,6 @@ This project was done as a group project with [Lars Pfleider](https://github.com
   - [How to cub3D](https://github.com/42elenz/cub3d#how-to-cub3d)
   - [Map requirements](https://github.com/42elenz/cub3d#map-requirements)
   - [Texture requirements](https://github.com/42elenz/cub3d#texture-requirements)
-- [Example](https://github.com/42elenz/cub3d#example)
 
 ## Short description of the project
 
@@ -22,7 +21,8 @@ As a graphic design project, cub3D will enable you to improve your skills in the
 To conclude cub3D is a remarkable playground to explore the playful practical applications of mathematics without having to understand the specifics.<br><br>
 With the help of the numerous documents available on the internet, you will use mathematics as a tool to create elegant and efficient algorithms.<br><br>
 
-[![Video description](Video)](video_url)
+## Here you can see the result:
+![Animated GIF](https://github.com/42elenz/cub3d/blob/master/resources/example.gif)
 
 ## Our cub3D
 ### Requirements to run the game
@@ -83,7 +83,3 @@ If you want to change the windowsize, this can be done in the [cub3d_define.h](h
 [back to **Our cub3D**](https://github.com/42elenz/cub3d#our-cub3d)<br>
 [back to **Contents**](https://github.com/42elenz/cub3d#contents)<br>
 
-### Example
-<img src="readme_additions/example.gif"/><br>
-[back to **Our cub3D**](https://github.com/42elenz/cub3d#our-cub3d)<br>
-[back to **Contents**](https://github.com/42elenz/cub3d#contents)<br>
